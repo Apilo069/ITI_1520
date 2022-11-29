@@ -1,0 +1,35 @@
+
+Le fichier "devoir1" contient toute les fonction, veullier l'évaluez. Pour seulement voir un des programme, veullier sélectionné le devoir1.x, ou x correspond a la question
+
+Test q1
+vitesse = 2 km/s
+distance = 1 km/s
+temps = 30.0 minute
+
+Test q2
+note lab = 100
+note devoir = 82
+note quiz = 83
+note exam. part. = 57
+note exam. fin. = 90
+note finale = 82.05
+
+
+
+Test q3
+Nom auteur = 'Bob Woodward'
+Ville de publ. = 'New york'
+Ann. de publ' = '1999'
+Nom livre = 'Shadow: Five Presidents and the Legacy of Watergate'
+Maison d'éd. = 'Simon & Schuster'
+Bibformat = ('Bob Woodward', '1999', 'Shadow: Five Presidents and the Legacy of Watergate', 'New York', 'Simon & Schuster')
+
+Test q4
+Nom auteur = Bob Woodward
+Nom du livre = Shadow
+Année de publication = 1999
+Ville de publ. = New York
+Maison d'Éd. = Simon & Schuster
+Bibformat = ('Bob Woodward', '1999', 'Shadow', 'New York', 'Simon 		& Schuster')
+
+		None
